@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code-23",
+  "version": "1.0.0",
+  "description": "Advent Of Code 2023",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "James Bosley",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.10.2",
+    "typescript": "^5.3.2"
+  }
+}
